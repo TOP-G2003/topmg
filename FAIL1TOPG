@@ -1,0 +1,7 @@
+echo "# topmg" >> README.md
+  git init
+  git add README.md
+  git commit -m "первая фиксация"
+  git branch -M main
+  git remote add origin https://github.com/TOP-G2003/topmg.git
+  https://github.com/TOP-G2003/topmg.git 
